@@ -1,0 +1,11 @@
+{
+  "name": "restapi-node",
+  "version": "0.1.0",
+  "description": "Professional RestAPI using Express, Typescript & Prisma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Md Mostafizur Rahman",
+  "license": "MIT"
+}
